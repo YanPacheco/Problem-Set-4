@@ -16,7 +16,7 @@ Date of Birth | Date of Birth
 County  | Florida county 
 
 # 2
-# Data could be normalized by Inmate county and also by Race/Gender. These would both be TEXT data types.
+# Data could be normalized by Inmate county and also by Race/Gender. These would both be TEXT data types. It would be worth normalizing the data in this manner because you can then see which county has the most inmates and additionally look at which Race/Gender has the most offenses. You can also choose to parse over the date information and run an analysis on which county had the most incidents of crimes per year.
 
 # 3
 Create TABLE inmates_slim (
