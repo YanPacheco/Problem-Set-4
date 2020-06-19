@@ -3,7 +3,6 @@ Source of Data: http://2016.padjo.org/tutorials/sqlite-data-starterpacks/#toc-fl
 
 Column header | Description
 --------------|------------
-
 Inmate Name | Name
 DC# | Case Number
 Race/Gender | WM or BM for white male/black male
